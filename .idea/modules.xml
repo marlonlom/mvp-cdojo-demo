@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mvp-cdojo-demo.iml" filepath="$PROJECT_DIR$/mvp-cdojo-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvp_cdojo_demo_mobile/mvp_cdojo_demo_mobile.iml" filepath="$PROJECT_DIR$/mvp_cdojo_demo_mobile/mvp_cdojo_demo_mobile.iml" />
+    </modules>
+  </component>
+</project>
